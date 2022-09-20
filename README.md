@@ -1,2 +1,2 @@
-Fashion Blog - codecademy.com
-Basic HTML Training 
+- Fashion Blog - codecademy.com
+- Basic HTML Training
