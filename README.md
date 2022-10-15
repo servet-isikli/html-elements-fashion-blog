@@ -1,2 +1,3 @@
 - Fashion Blog - codecademy.com
 - HTML Training
+- https://servetisikli.github.io/html-elements-fashion-blog
